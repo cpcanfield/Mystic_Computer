@@ -1,0 +1,3 @@
+/Users/carolinecanfield/CLionProjects/Mystic_Computer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/carolinecanfield/CLionProjects/Mystic_Computer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carolinecanfield/CLionProjects/Mystic_Computer/cmake-build-debug/CMakeFiles/Mystic_Computer.dir
